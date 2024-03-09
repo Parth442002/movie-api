@@ -1,0 +1,62 @@
+[
+  {
+    "username": "user1",
+    "phoneNumber": 1234567010,
+    "password": "password",
+    "is_admin": true
+  },
+  {
+    "username": "user2",
+    "phoneNumber": 1234567021,
+    "password": "password",
+    "is_admin": false
+  },
+  {
+    "username": "user3",
+    "phoneNumber": 1234567032,
+    "password": "password",
+    "is_admin": true
+  },
+  {
+    "username": "user4",
+    "phoneNumber": 1234567041,
+    "password": "password",
+    "is_admin": false
+  },
+  {
+    "username": "user5",
+    "phoneNumber": 1234567052,
+    "password": "password",
+    "is_admin": true
+  },
+  {
+    "username": "user6",
+    "phoneNumber": 1234567063,
+    "password": "password",
+    "is_admin": false
+  },
+  {
+    "username": "user7",
+    "phoneNumber": 1234567074,
+    "password": "password",
+    "is_admin": true
+  },
+  {
+    "username": "user8",
+    "phoneNumber": 1234567085,
+    "password": "password",
+    "is_admin": false
+  },
+  {
+    "username": "user9",
+    "phoneNumber": 1234567094,
+    "password": "password",
+    "is_admin": true
+  },
+  {
+    "username": "user10",
+    "phoneNumber": 1234567102,
+    "password": "password",
+    "is_admin": false
+  }
+]

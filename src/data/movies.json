@@ -1,0 +1,104 @@
+[
+  {
+    "title": "The Shawshank Redemption",
+    "duration": "2h 22min",
+    "releaseDate": "1994-10-14",
+    "genre": "Drama",
+    "rating": 4.3,
+    "streamingLink": "https://www.example.com/movies/shawshank-redemption",
+    "director": "Frank Darabont",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "leadActors": ["Tim Robbins", "Morgan Freeman"]
+  },
+  {
+    "title": "The Godfather",
+    "duration": "2h 55min",
+    "releaseDate": "1972-03-24",
+    "genre": "Crime",
+    "rating": 5.0,
+    "streamingLink": "https://www.example.com/movies/the-godfather",
+    "director": "Francis Ford Coppola",
+    "description": "An organized crime dynasty's aging patriarch transfers control of his clandestine empire to his reluctant son.",
+    "leadActors": ["Marlon Brando", "Al Pacino"]
+  },
+  {
+    "title": "The Dark Knight",
+    "duration": "2h 32min",
+    "releaseDate": "2008-07-18",
+    "genre": "Action",
+    "rating": 5.0,
+    "streamingLink": "https://www.example.com/movies/the-dark-knight",
+    "director": "Christopher Nolan",
+    "description": "When the menace known as The Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "leadActors": ["Christian Bale", "Heath Ledger"]
+  },
+  {
+    "title": "Schindler's List",
+    "duration": "3h 15min",
+    "releaseDate": "1993-12-15",
+    "genre": "Biography",
+    "rating": 4.9,
+    "streamingLink": "https://www.example.com/movies/schindlers-list",
+    "director": "Steven Spielberg",
+    "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+    "leadActors": ["Liam Neeson", "Ben Kingsley"]
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "duration": "3h 21min",
+    "releaseDate": "2003-12-17",
+    "genre": "Adventure",
+    "rating": 3.8,
+    "streamingLink": "https://www.example.com/movies/lord-of-the-rings-return-of-the-king",
+    "director": "Peter Jackson",
+    "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+    "leadActors": ["Elijah Wood", "Viggo Mortensen"]
+  },
+  {
+    "title": "Pulp Fiction",
+    "duration": "2h 34min",
+    "releaseDate": "1994-10-14",
+    "genre": "Crime",
+    "rating": 3.7,
+    "streamingLink": "https://www.example.com/movies/pulp-fiction",
+    "director": "Quentin Tarantino",
+    "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "leadActors": ["John Travolta", "Uma Thurman"]
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "duration": "2h 58min",
+    "releaseDate": "2001-12-19",
+    "genre": "Adventure",
+    "rating": 4.8,
+    "streamingLink": "https://www.example.com/movies/lord-of-the-rings-fellowship-of-the-ring",
+    "director": "Peter Jackson",
+    "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+    "leadActors": ["Elijah Wood", "Ian McKellen"]
+  },
+  {
+    "title": "Forrest Gump",
+    "duration": "2h 22min",
+    "releaseDate": "1994-07-06",
+    "genre": "Drama",
+    "rating": 4.1,
+    "streamingLink": "https://www.example.com/movies/forrest-gump",
+    "director": "Robert Zemeckis",
+    "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+    "leadActors": ["Tom Hanks", "Robin Wright"]
+  },
+   {
+      "title": "Saving Private Ryan",
+      "genre": "Drama",
+      "rating": 4.6,
+      "streamingLink": "https://www.example.com/movies/saving-private-ryan",
+      "leadActors": ["Tom Hanks", "Matt Damon"]
+    },
+    {
+      "title": "The Green Mile",
+      "genre": "Crime",
+      "rating": 4.7,
+      "streamingLink": "https://www.example.com/movies/the-green-mile",
+      "leadActors": ["Tom Hanks", "Michael Clarke Duncan"]
+    }
+]
